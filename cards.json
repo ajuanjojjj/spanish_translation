@@ -739,7 +739,7 @@
   },
   "Lockon": {
     "NAME": "Localizar",
-    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! ‘Bloquear’ al objetivo."
+    "DESCRIPTION": "Haz !D! de daño. NL Aplica !M! ‘Localizar’ al objetivo."
   },
   "Loop": {
     "NAME": "Bucle",
