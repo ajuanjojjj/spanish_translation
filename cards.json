@@ -147,8 +147,8 @@
   },
   "Bloodletting": {
     "NAME": "Flebotomía",
-    "DESCRIPTION": "Gana [R]. NL Pierde 3 PV.",
-    "UPGRADE_DESCRIPTION": "Gana [R] [R]. NL Pierde 3 PV."
+    "DESCRIPTION": "Gana [R] [R]. NL Pierde 3 PV.",
+    "UPGRADE_DESCRIPTION": "Gana [R] [R] [R]. NL Pierde 3 PV."
   },
   "Bludgeon": {
     "NAME": "Cachiporra",
@@ -959,7 +959,7 @@
   },
   "Reflex": {
     "NAME": "Reflejos",
-    "DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! carta.",
+    "DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! cartas.",
     "UPGRADE_DESCRIPTION": "Injugable. NL Si esta carta es descartada de la mano, roba !M! cartas.",
     "EXTENDED_DESCRIPTION": [
       "No puedo jugar esta carta."
@@ -975,7 +975,7 @@
   },
   "Reprogram": {
     "NAME": "Reprogramar",
-    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana 1 de Fuerza. NL Gana 1 de Destreza.",
+    "DESCRIPTION": "Pierde !M! de Concentración. NL Gana !M! de Fuerza. NL Gana !M! de Destreza.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Riddle With Holes": {
@@ -992,7 +992,7 @@
   },
   "Rupture": {
     "NAME": "Ruptura",
-    "DESCRIPTION": "Cada vez que pierdas PV por una carta, NL gana 1 de Fuerza."
+    "DESCRIPTION": "Cada vez que pierdas PV por una carta, NL gana !M! de Fuerza."
   },
   "Sadistic Nature": {
     "NAME": "Naturaleza Sádica",
