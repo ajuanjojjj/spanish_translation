@@ -5,7 +5,7 @@
   },
   "Accuracy": {
     "NAME": "Precisión",
-    "DESCRIPTION": "'Navaja' hace !M! de daño adicional."
+    "DESCRIPTION": "\"Navaja\" hace !M! de daño adicional."
   },
   "Acrobatics": {
     "NAME": "Acrobacias",
@@ -60,7 +60,7 @@
     "DESCRIPTION": "Injugable. NL Etérea. NL No se puede eliminar del mazo."
   },
   "Auto Shields": {
-    "NAME": "Escudos Automáticos",
+    "NAME": "Escudo Automático",
     "DESCRIPTION": "Si tienes 0 de Bloqueo, gana !B! de Bloqueo."
   },
   "Axe Kick": {
@@ -112,7 +112,7 @@
     "DESCRIPTION": "Gana !M! Vulnerable. NL Gana [R] al inicio de cada turno."
   },
   "Biased Cognition": {
-    "NAME": "Conocimiento Prejuicioso",
+    "NAME": "Conocimiento Parcial",
     "DESCRIPTION": "Gana !M! de Concentración. NL Al inicio de cada turno, pierde 1 de Concentración."
   },
   "Bite": {
@@ -589,7 +589,7 @@
   },
   "Gash": {
     "NAME": "Tajo",
-    "DESCRIPTION": "Haz !D! de daño. NL Todos los 'Tajo' hacen !M! de daño adicional este combate."
+    "DESCRIPTION": "Haz !D! de daño. NL Todos los \"Tajo\" hacen !M! de daño adicional este combate."
   },
   "Genetic Algorithm": {
     "NAME": "Algoritmo Genético",
@@ -645,8 +645,8 @@
   },
   "Heavy Blade": {
     "NAME": "Espada Pesada",
-    "DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a 'Espada Pesada' !M! veces.",
-    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a 'Espada Pesada' !M! veces."
+    "DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a \"Espada Pesada\" !M! veces.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Fuerza afecta a \"Espada Pesada\" !M! veces."
   },
   "Heel Hook": {
     "NAME": "Agarre de Tobillo",
@@ -692,8 +692,8 @@
   },
   "Infinite Blades": {
     "NAME": "Navajas Infinitas",
-    "DESCRIPTION": "Al inicio de cada turno, añade 1 'Navaja' a tu mano.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade 'Navaja' a la mano."
+    "DESCRIPTION": "Al inicio de cada turno, añade 1 \"Navaja\" a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade \"Navaja\" a la mano."
   },
   "Inflame": {
     "NAME": "Avivar",
@@ -870,8 +870,8 @@
   },
   "Perfected Strike": {
     "NAME": "Golpe Perfeccionado",
-    "DESCRIPTION": "Haz !D! de daño. NL Haz 2 de daño adicional por cada 'Golpe' que tengas.",
-    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada 'Golpe' que tengas."
+    "DESCRIPTION": "Haz !D! de daño. NL Haz 2 de daño adicional por cada \"Golpe\" que tengas.",
+    "UPGRADE_DESCRIPTION": "Haz !D! de daño. NL Haz 3 de daño adicional por cada \"Golpe\" que tengas."
   },
   "Phantasmal Killer": {
     "NAME": "Asesino Fantasmal",
@@ -892,7 +892,7 @@
   },
   "Power Through": {
     "NAME": "Avanzar a Toda Costa",
-    "DESCRIPTION": "Añade 2 'Heridas' a tu mano. NL Gana !B! de Bloqueo."
+    "DESCRIPTION": "Añade 2 \"Heridas\" a tu mano. NL Gana !B! de Bloqueo."
   },
   "Predator": {
     "NAME": "Depredador",
@@ -1107,7 +1107,7 @@
   },
   "Steam Power": {
     "NAME": "Alta Prioridad",
-    "DESCRIPTION": "Roba !M! cartas. NL Añade una 'Quemadura' en la pila de descarte."
+    "DESCRIPTION": "Roba !M! cartas. NL Añade una \"Quemadura\" en la pila de descarte."
   },
   "Storm": {
     "NAME": "Tormenta",
@@ -1217,8 +1217,8 @@
   },
   "Turbo": {
     "NAME": "Turbo",
-    "DESCRIPTION": "Gana [B] [B]. NL Añade un 'Vacío' en la pila de descarte.",
-    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un 'Vacío' en la pila de descarte."
+    "DESCRIPTION": "Gana [B] [B]. NL Añade un \"Vacío\" en la pila de descarte.",
+    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un \"Vacío\" en la pila de descarte."
   },
   "Twin Strike": {
     "NAME": "Golpe Doble",
@@ -1271,7 +1271,7 @@
   },
   "White Noise": {
     "NAME": "Ruido Blanco",
-    "DESCRIPTION": "Añade una carta de Poder al azar a tu mano. NL Su coste es 0 este turno. NL Agota."
+    "DESCRIPTION": "Añade una Carta de Poder al azar a tu mano. NL Cuesta 0 este turno. NL Agota."
   },
   "Wild Strike": {
     "NAME": "Golpe Salvaje",

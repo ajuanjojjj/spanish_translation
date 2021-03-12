@@ -11,7 +11,7 @@
     ],
     "OPTIONS": [
       "[Forjar] #gMejora #guna #gcarta #gen #gtu #gmazo.",
-      "[Hurgar] #gObtén #guna #gReliquia #gEspecial. #rTe maldices con #r- #rDolor.",
+      "[Hurgar] #gObtén #guna #gReliquia #gespecial. #rTe #rMaldices #rcon #r- #rDolor.",
       "[Salir]",
       "Elige una Carta y mejórala.",
       "[Bloqueado] Necesitas: Cartas sin mejorar."
@@ -113,7 +113,7 @@
       "El Ancestro de la Resurrección, #yNeow, fue exiliado al fondo de la Torre. NL NL Te sientes con necesidad de leer más, pero empiezas a sentir un gran #r~dolor~ en el cuerpo.",
       "Buscando venganza, #yNeow bendice a extranjeros, usándolos para sus propios propósitos. NL NL Te empiezas a sentir muy #r~débil~ #r~y~ #r~con sueño...~",
       "Aquellos revividos por #yNeow solo recuerdan fragmentos de sus seres pasados, maldecidos a pelear por toda la eternidad. NL NL Al llegar cerca de la última página, ¡tus #r@viejas@ #r@heridas@ #r@empiezan@ #r@a@ #r@abrirse!@",
-      "Al terminar el tomo, decides llevártelo contigo. Evidencia en mano, ¿Podrás conservar @tus recuerdos?@",
+      "Al terminar el tomo, decides llevártelo contigo. Evidencia en mano, ¿Podrás conservar tus recuerdos?",
       "Sales, sintiendo una #p~energía~ #p~oscura~ #p~que~ #p~emana~ del libro en el pedestal.",
       "Con increíble dificultad y voluntad, resistes el trance del tomo @Y@ @LO@ @CIERRAS@ @DE@ @GOLPE@ . NL Sales pitando del templo, sintiéndote sin #b~energía...~"
     ],
@@ -588,7 +588,7 @@
       " NL El corazón late fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       "NL Preparas tu espada...",
       "NL Preparas tus dagas...",
-      "NL Cargas tu centro a su máxima capacidad...",
+      "NL Cargas tu núcleo a su máxima capacidad...",
       " Te preguntas, ~\"¿He~ ~estado~ ~aquí~ ~antes?\"~",
       " NL El corazón late fuerte y más fuerte mientras tu #y~consciencia~ se #y~desvanece...~",
       " NL Un repentino impulso de #y@energía@ emana de tu interior, #b@sacudiendote@ y despertandote.",
@@ -905,7 +905,7 @@
       " #gcartas #galeatorias.",
       "#gMejora #guna #gcarta.",
       "#gElimina #guna #gcarta.",
-      "#Transforma #g",
+      "#gTransforma #g",
       " #gcartas.",
       "#gElimina #guna #gcarta #gy #gmejora #guna #gcarta #galeatoria.",
       "[Salir]",
@@ -918,7 +918,7 @@
     "NAME": "El Coliseo",
     "DESCRIPTIONS": [
       "@¡¡Wham!!@ NL ... NL ... ... NL ... NL ~Pierdes~ ~el~ ~conocimiento...~",
-      "~Atontado~ y con la cabeza @palpitando,@ te despiertas y te encuentras en el centro de un masivo coliseo con una grada desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
+      "~Atontado~ y con la cabeza @palpitando,@ te despiertas y te encuentras en el centro de un coliseo enorme con una grada desbordante de #bEsclavistas, #pFieles, y otros habitantes de la ciudad! NL ",
       " NL Un gigante blindado con una #ycorona #ydorada ruge por encima tuyo, NL @\"¡¡AHORA@ @EMPIEZA@ @EL@ @",
       "°@ @COMBATE!!\"@ NL Una puerta al otro lado se abre...",
       "@\"BIEN@ @HECHO,@ @DEBILUCHO!\"@ NL El gigante se burla aplaudiendo mientras irrita a la multitud con gestos exagerados. NL #y~Te~ ~llueve~ #y~Oro~ ~y~ ~confeti!~ NL @\"ES@ @LA@ @HORA@ @PARA@ @EL@ @VERDADERO@ @DESAFIO!!\"@ NL NL La última batalla deja una pequeña salida en la pared del coliseo, puedes escapar fácilmente mientras todo el mundo está distraído. NL ¿Quedarse y pelear?"

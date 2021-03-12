@@ -20,7 +20,7 @@
       "El Blindado"
     ],
     "TEXT": [
-      "El último soldado de 'los Blindados'. NL Vendió su alma para poder usar las energías demoníacas."
+      "El último soldado de 'Los Blindados'. NL Vendió su alma para poder usar las energías demoníacas."
     ]
   },
   "Merchant": {
@@ -94,20 +94,20 @@
     "TEXT": [
       "[ #gElije #guna #gcarta #gy #gagregala #ga #gtu #gmazo ]",
       "[ #gRecibe #guna #gcarta #grara #galeatoria ]",
-      "[ #gElije #gy #gelimina #guna #gcarta #gde #gtu #gmazo ]",
-      "[ #gElige #gy #gmejora #guna #gcarta #gde #gtu #gmazo ]",
-      "[ #gElije #gy #gtransforma #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gElimina #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gMejora #guna #gcarta #gde #gtu #gmazo ]",
+      "[ #gTransforma #guna #gcarta #gde #gtu #gmazo ]",
       "[ #gRecibe #g3 #gpociones #gal #gazar ]",
-      "[ #gRecibe #guna #greliquia #gcomún #galeatoria]",
-      "[ #gPV #gMáximos #g+",
+      "[ #gRecibe #guna #gReliquia #gcomún #galeatoria]",
+      "[ #gAumenta #gtus #gPV #gmáximos #gpor",
       "[ #gRecibe #g",
       " #goro ]",
-      "#gElije #gy #gelimina #g2 #gcartas #gde #gtu #gmazo]",
-      "#gRecibe #guna #greliquia #grara #galeatoria ]",
+      "#gElimina #g2 #gcartas #gde #gtu #gmazo]",
+      "#gRecibe #guna #gReliquia #grara #galeatoria ]",
       "#gElije #guna #gcarta #grara #gy #gagrégala #ga #gtu #gmazo ]",
       "#gGana #g",
       " #goro ]",
-      "#gElije #gy #gtransforma #g2 #gcartas #gde #gtu #gmazo ]",
+      "#gTransforma #g2 #gcartas #gde #gtu #gmazo ]",
       "#gPV #gMáximos #g+",
       "[ #rPierde #r",
       " #rPV #rMáximos. ",
@@ -122,8 +122,8 @@
       "Elije y mejora una carta de tu mazo",
       "[ #gEn #gtus #gsiguientes #gtres #gcombates, #glos #genemigos #gsolo #gtienen #g1 #gPV ]",
       " #rde #rdaño",
-      "[ #gObtén #guna #gCarta #gincolora #galeatoria ]",
-      "#gObtén #guna #gCarta #gincolora #grara #galeatoria ]"
+      "[ #gElije #guna #gcarta #gincolora #gy #gagregala #ga #gtu #gmazo ]",
+      "#gElije #guna #gcarta #grara #gincolora #gy #gagregala #ga #gtu #gmazo ]"
     ],
     "UNIQUE_REWARDS": [
       "[ #rPierde #rtu #rreliquia #rinicial. #gRecibe #guna #greliquia #gde #gJefe #galeatoria ]"
