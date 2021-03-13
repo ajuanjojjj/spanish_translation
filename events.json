@@ -20,7 +20,7 @@
   "Addict": {
     "NAME": "Vagabundo Mendigo",
     "DESCRIPTIONS": [
-      "Mientras te escabulles frente a un grupo de figuras envueltas en la penumbra, una se te acerca. NL \"¿Tienes algo para mi amigo? Por favor... ¿Tal vez alguna #yMoneda?\" NL \"Solo nevesito un sitio para quedarme, tengo tesoros para intercambiar...\" NL Parece desilusionado, pero inofensivo.",
+      "Mientras te escabulles frente a un grupo de figuras envueltas en la penumbra, una se te acerca. NL \"¿Tienes algo para mí, amigo? Por favor... ¿Tal vez alguna #yMoneda?\" NL \"Solo nevesito un sitio para quedarme, tengo tesoros para intercambiar...\" NL Parece desilusionado, pero inofensivo.",
       "\"¡Oh, sí, ~sí!~ ¡Aquí tienes, un intercambio justo!\"",
       "Le arrancas la preciada #yReliquia de las manos y te vas. NL A tus espaldas escuchas: NL \"¿No sientes vergüenza? ~¿NO~ ~SIENTES~ ~VERGÜEEENZAA?!\"~ NL Y sí, sientes #pvergüenza."
     ],
@@ -38,7 +38,7 @@
   "Back to Basics": {
     "NAME": "Antiguas Escrituras",
     "DESCRIPTIONS": [
-      "Le arrancas la preciada #yReliquia de las manos y te vas. NL A tus espaldas escuchas: NL \"¿No sientes vergüenza? ~¿NO~ ~SIENTES~ ~VERGÜEEENZAA?!\"~ NL Y sí, sientes #pvergüenza.",
+      "Subiendo por la ciudad, te fijas en una pared cubierta en las escrituras de los #y~Ancianos.~ Mientras le das vueltas a que pueden significar estos símbolos y glifos, las escrituras comienzan a #b~brillar.~ NL De repente, el mensaje se revela ante tus ojos...",
       "La respuesta era elegancia. NL Obviamente.",
       "La verdad siempre es simple."
     ],
