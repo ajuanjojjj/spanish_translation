@@ -5,7 +5,7 @@
   },
   "Accuracy": {
     "NAME": "Precisión",
-    "DESCRIPTION": "\"Navaja\" hace !M! de daño adicional."
+    "DESCRIPTION": "*Navaja hace !M! de daño adicional."
   },
   "Acrobatics": {
     "NAME": "Acrobacias",
@@ -676,7 +676,7 @@
   },
   "Immolate": {
     "NAME": "Inmolar",
-    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade una Quemadura a la pila de descarte."
+    "DESCRIPTION": "Haz !D! de daño a TODOS los enemigos. NL Añade una *Quemadura a la pila de descarte."
   },
   "Impatience": {
     "NAME": "Impaciencia",
@@ -692,8 +692,8 @@
   },
   "Infinite Blades": {
     "NAME": "Navajas Infinitas",
-    "DESCRIPTION": "Al inicio de cada turno, añade 1 \"Navaja\" a tu mano.",
-    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade \"Navaja\" a la mano."
+    "DESCRIPTION": "Al inicio de cada turno, añade 1 *Navaja a tu mano.",
+    "UPGRADE_DESCRIPTION": "Innata. NL Al inicio de tu turno, añade *Navaja a la mano."
   },
   "Inflame": {
     "NAME": "Avivar",
@@ -892,7 +892,7 @@
   },
   "Power Through": {
     "NAME": "Avanzar a Toda Costa",
-    "DESCRIPTION": "Añade 2 \"Heridas\" a tu mano. NL Gana !B! de Bloqueo."
+    "DESCRIPTION": "Añade 2 *Heridas a tu mano. NL Gana !B! de Bloqueo."
   },
   "Predator": {
     "NAME": "Depredador",
@@ -1107,7 +1107,7 @@
   },
   "Steam Power": {
     "NAME": "Alta Prioridad",
-    "DESCRIPTION": "Roba !M! cartas. NL Añade una \"Quemadura\" en la pila de descarte."
+    "DESCRIPTION": "Roba !M! cartas. NL Añade una *Quemadura en la pila de descarte."
   },
   "Storm": {
     "NAME": "Tormenta",
@@ -1217,8 +1217,8 @@
   },
   "Turbo": {
     "NAME": "Turbo",
-    "DESCRIPTION": "Gana [B] [B]. NL Añade un \"Vacío\" en la pila de descarte.",
-    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un \"Vacío\" en la pila de descarte."
+    "DESCRIPTION": "Gana [B] [B]. NL Añade un *Vacío en la pila de descarte.",
+    "UPGRADE_DESCRIPTION": "Gana [B] [B] [B]. NL Añade un *Vacío en la pila de descarte."
   },
   "Twin Strike": {
     "NAME": "Golpe Doble",
@@ -1275,7 +1275,7 @@
   },
   "Wild Strike": {
     "NAME": "Golpe Salvaje",
-    "DESCRIPTION": "Haz !D! de daño. NL Baraja una Herida en la pila de extracción."
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja una *Herida en la pila de extracción."
   },
   "Wound": {
     "NAME": "Herida",
@@ -1302,7 +1302,7 @@
   },
   "BrillianceAura": {
     "NAME": "DEPRECATED Brilliance Aura",
-    "DESCRIPTION": "DEPRECATED Retiene. NL Agota. NL At the start of your turn, draw 1 card."
+    "DESCRIPTION": "DEPRECATED"
   },
   "Wrath": {
     "NAME": "Cólera",
@@ -1310,7 +1310,7 @@
   },
   "Polymath": {
     "NAME": "DEPRECATED Polymath",
-    "DESCRIPTION": "Enter Calm or Wrath. NL Agota."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Tantrum": {
     "NAME": "Berrinche",
@@ -1340,12 +1340,12 @@
   },
   "Retribution": {
     "NAME": "DEPRECATED Retribution",
-    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+    "DESCRIPTION": "DEPRECATED."
   },
   "FlowState": {
     "NAME": "DEPRECATED Estado de flujo",
-    "DESCRIPTION": "Cólera: Entra en Calma. NL Calma: Entra en Cólera. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Cólera: Entra en Calma. NL Calma: Entra en cólera."
+    "DESCRIPTION": "DEPRECATED.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "Swivel": {
     "NAME": "Pivotar",
@@ -1358,7 +1358,7 @@
   },
   "FuryAura": {
     "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength. Retains."
+    "DESCRIPTION": "DEPRECATED."
   },
   "DeusExMachina": {
     "NAME": "Deus Ex Machina",
@@ -1370,8 +1370,8 @@
   },
   "Metaphysics": {
     "NAME": "DEPRECATED Metafísica",
-    "DESCRIPTION": "DEPRECATED Baraja una *Causa en tu pila de extracción. NL Agota.",
-    "UPGRADE_DESCRIPTION": "DEPRECATED Baraja una *Causa Mejorada en tu pila de extracción. NL Agota."
+    "DESCRIPTION": "",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Clarity": {
     "NAME": "Claridad",
@@ -1384,7 +1384,7 @@
   },
   "Flicker": {
     "NAME": "DEPRECATED Flicker",
-    "DESCRIPTION": "Haz !D! de daño. If this kills the enemy, return this card to your hand."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Alpha": {
     "NAME": "Alfa",
@@ -1401,7 +1401,7 @@
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
-    "DESCRIPTION": "Haz !D! de daño. NL Gain !M! Vigor."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Wallop": {
     "NAME": "Zasca",
@@ -1430,7 +1430,7 @@
   },
   "Shield": {
     "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL Agota."
+    "DESCRIPTION": "DEPRECATED."
   },
   "LessonLearned": {
     "NAME": "Lección Aprendida",
@@ -1446,7 +1446,7 @@
   },
   "Survey": {
     "NAME": "DEPRECATED Survey",
-    "DESCRIPTION": "Gana !B! de Bloqueo. NL Gana !M! de Vigor."
+    "DESCRIPTION": "DEPRECATED."
   },
   "FlyingSleeves": {
     "NAME": "Mangas Voladoras",
@@ -1463,11 +1463,11 @@
   },
   "WardAura": {
     "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Retiene. NL Gana !B! de Bloqueo. NL At the start of your turn, gain !M! Block."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Mastery": {
     "NAME": "DEPRECATED Maestría",
-    "DESCRIPTION": "Whenever you attempt to switch Stances to your current Stance, gain [B]."
+    "DESCRIPTION": "DEPRECATED"
   },
   "Beta": {
     "NAME": "Beta",
@@ -1488,12 +1488,12 @@
   },
   "AwakenedStrike": {
     "NAME": "DEPRECATED Awakened Strike",
-    "DESCRIPTION": "Haz !D! de daño."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Blessed": {
     "NAME": "DEPRECATED Blessed",
-    "DESCRIPTION": "Shuffle !M! *Miracles into your draw pile. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Shuffle !M! *Miracles+ into your draw pile. NL Agota."
+    "DESCRIPTION": "DEPRECATED.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "Eruption": {
     "NAME": "Erupción",
@@ -1501,7 +1501,7 @@
   },
   "LetFateDecide": {
     "NAME": "DEPRECATED Let Fate Decide",
-    "DESCRIPTION": "Play the top X cards of your draw pile. If X is 3 or more, Retain X cards."
+    "DESCRIPTION": "DEPRECATED."
   },
   "CutThroughFate": {
     "NAME": "Desafiar al Destino",
@@ -1538,12 +1538,12 @@
   },
   "Experienced": {
     "NAME": "DEPRECATED Experienced",
-    "DESCRIPTION": "Gain !B! Block for each Upgraded card in your hand."
+    "DESCRIPTION": "DEPRECATED."
   },
   "PerfectedForm": {
     "NAME": "DEPRECATED Perfected Form",
-    "DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity. NL Agota.",
-    "UPGRADE_DESCRIPTION": "If you have entered all basic Stances this turn, enter Divinity."
+    "DESCRIPTION": "DEPRECATED.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "JustLucky": {
     "NAME": "Cuestion de Suerte",
@@ -1551,7 +1551,7 @@
   },
   "Torrent": {
     "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Agota."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Peace": {
     "NAME": "Paz",
@@ -1559,7 +1559,7 @@
   },
   "PalmThatRestrains": {
     "NAME": "DEPRECATED Restraining Palm",
-    "DESCRIPTION": "Haz !D! de daño. NL Apply !M! Weak."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Protect": {
     "NAME": "Proteger",
@@ -1610,8 +1610,8 @@
   },
   "RetreatingHand": {
     "NAME": "DEPRECATED Retreating Hand",
-    "DESCRIPTION": "Ethereal. NL Gain !B! Block. If the previous card played was an Attack, return this card to your hand.",
-    "UPGRADE_DESCRIPTION": "Gana !B! de Bloqueo. If the previous card played was an Attack, return this card to your hand."
+    "DESCRIPTION": "DEPRECATED.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "Halt": {
     "NAME": "Detener",
@@ -1654,8 +1654,8 @@
   },
   "BigBrain": {
     "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Retiene. NL Draw 1 card. NL Agota.",
-    "UPGRADE_DESCRIPTION": "Retiene. NL Draw 1 card."
+    "DESCRIPTION": "DEPRECATED.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED."
   },
   "ForeignInfluence": {
     "NAME": "Influencia Externa",
@@ -1668,11 +1668,11 @@
   },
   "SublimeSlice": {
     "NAME": "DEPRECATED Sublime Slice",
-    "DESCRIPTION": "Haz !D! de daño. NL Enter a random Stance."
+    "DESCRIPTION": "DEPRECATED."
   },
   "ReachHeaven": {
     "NAME": "Alcanzar el Cielo",
-    "DESCRIPTION": "Haz !D! de daño. NL Baraja un NL *Mediante *Violencia en tu pila de extracción.",
+    "DESCRIPTION": "Haz !D! de daño. NL Baraja un NL *Mediante *la *Violencia en tu pila de extracción.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Insight": {
@@ -1687,7 +1687,7 @@
   },
   "SoothingAura": {
     "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Retiene. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+    "DESCRIPTION": "DEPRECATED."
   },
   "BowlingBash": {
     "NAME": "Pleno",
@@ -1700,7 +1700,7 @@
   },
   "Punishment": {
     "NAME": "DEPRECATED Punishment",
-    "DESCRIPTION": "Enter Punishment Stance."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Smite": {
     "NAME": "Aplastar",
@@ -1717,7 +1717,7 @@
   },
   "Serenity": {
     "NAME": "DEPRECATED Serenidad",
-    "DESCRIPTION": "Mientras estás en Calma, los PV perdidos se reducen en !M!."
+    "DESCRIPTION": "DEPRECATED"
   },
   "Judgement": {
     "NAME": "Juicio",
@@ -1790,11 +1790,11 @@
   },
   "Fasting": {
     "NAME": "DEPRECATED Ayuno",
-    "DESCRIPTION": "DEPRECATED Gana !M! de Artefacto."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Swipe": {
     "NAME": "DEPRECATED Swipe",
-    "DESCRIPTION": "Haz !D! de daño. Haz la mitad de este daño a TODOS los otros enemigos."
+    "DESCRIPTION": "DEPRECATED."
   },
   "InnerPeace": {
     "NAME": "Paz Interior",
@@ -1802,19 +1802,19 @@
   },
   "StepAndStrike": {
     "NAME": "DEPRECATED Avanzar y Golpear",
-    "DESCRIPTION": "Cuesta 1 menos por cada Postura cambiada este turno. NL Gana !B! de Bloqueo. NL Haz !D! de daño."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediction",
-    "DESCRIPTION": "Gain !B! Block at the start of your next turn."
+    "DESCRIPTION": "DEPRECATED."
   },
   "Flow": {
     "NAME": "DEPRECATED Flow",
-    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+    "DESCRIPTION": "DEPRECATED."
   },
   "FlameMastery": {
     "NAME": "DEPRECATED Flame Mastery",
-    "DESCRIPTION": "Gain !M! Strength."
+    "DESCRIPTION": "DEPRECATED."
   },
   "FlurryOfBlows": {
     "NAME": "Ráfaga de Golpes",
