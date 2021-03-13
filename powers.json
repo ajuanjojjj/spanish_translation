@@ -151,14 +151,6 @@
       " de daño."
     ]
   },
-  "CorpseExplosionPower": {
-    "NAME": "Explosión de Cadáver",
-    "DESCRIPTIONS": [
-      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual sus PV Máximos.",
-      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual a #b",
-      " veces sus PV Máximos."
-    ]
-  },
   "Corruption": {
     "NAME": "Corrupción",
     "DESCRIPTIONS": [
@@ -324,14 +316,6 @@
       " de #yVeneno."
     ]
   },
-  "Equilibrium": {
-    "NAME": "Equilibrio",
-    "DESCRIPTIONS": [
-      "Mantén tu mano este turno.",
-      "Mantén tu mano este por #b",
-      " turnos."
-    ]
-  },
   "Evolve": {
     "NAME": "Evolucionar",
     "DESCRIPTIONS": [
@@ -355,14 +339,6 @@
       "Roba #b1 carta más el siguiente turno.",
       "Roba #b",
       " cartas extra el siguiente turno."
-    ]
-  },
-  "Fading": {
-    "NAME": "Desvaneciéndose",
-    "DESCRIPTIONS": [
-      "Muere en #b",
-      " turnos.",
-      "Muere este turno."
     ]
   },
   "Feel No Pain": {
@@ -484,6 +460,21 @@
       "Reduce TODO daño y perdida de PV a #1 en este turno. Intangible se aplica en turnos alternos"
     ]
   },
+  "Invincible": {
+    "NAME": "Invencible",
+    "DESCRIPTIONS": [
+      "Solo puedes perder #b",
+      " PV más este turno.",
+      "No puedes recibir daño este turno."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Latido de Muerte",
+    "DESCRIPTIONS": [
+      "Siempre que juegues una carta, recibe #b",
+      " daño y aumenta el daño del poder por #b1. Se reinicia en cada turno."
+    ]
+  },
   "IntangiblePlayer": {
     "NAME": "Intangible",
     "DESCRIPTIONS": [
@@ -539,6 +530,14 @@
       "Roba #b",
       " carta adicional al comienzo de cada turno.",
       " cartas adicionales al comienzo de cada turno."
+    ]
+  },
+  "Study": {
+    "NAME": "Estudiar",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, baraja #b",
+      " #yRevelación en tu pila de extracción.",
+      " #yRevelaciones en tu pila de extracción."
     ]
   },
   "Magnetism": {
@@ -611,12 +610,6 @@
     "NAME": "Sin Robar",
     "DESCRIPTIONS": [
       "No puedes robar cartas hasta el final de tu turno."
-    ]
-  },
-  "NoBlockPower": {
-    "NAME": "No Block Power",
-    "DESCRIPTIONS": [
-      "No puedes ganar #yBloqueo."
     ]
   },
   "Noxious Fumes": {
@@ -809,13 +802,6 @@
       " de daño."
     ]
   },
-  "Shifting": {
-    "NAME": "Escurridizo",
-    "DESCRIPTIONS": [
-      "Cuando ",
-      " recibe daño, pierde esa cantidad de #yFuerza hasta el final del turno."
-    ]
-  },
   "Shriek From Beyond": {
     "NAME": "Alarido del Más Allá",
     "DESCRIPTIONS": [
@@ -919,13 +905,6 @@
       " de #yFuerza."
     ]
   },
-  "TimeMazePower": {
-    "NAME": "Laberinto Temporal",
-    "DESCRIPTIONS": [
-      "Cuando juegues #b",
-      " cartas, se acaba tu turno"
-    ]
-  },
   "Tools Of The Trade": {
     "NAME": "Herramientas del Oficio",
     "DESCRIPTIONS": [
@@ -980,25 +959,48 @@
       " Destreza."
     ]
   },
-  "BeatOfDeath": {
-    "NAME": "Latido de Muerte",
+  "Equilibrium": {
+    "NAME": "Equilibrio",
     "DESCRIPTIONS": [
-      "Siempre que juegues una carta, recibe #b",
-      " daño y aumenta el daño del poder por #b1. Se reinicia en cada turno."
+      "Mantén tu mano este turno.",
+      "Mantén tu mano este por #b",
+      " turnos."
     ]
   },
-  "Invincible": {
-    "NAME": "Invencible",
+  "Fading": {
+    "NAME": "Desvaneciéndose",
     "DESCRIPTIONS": [
-      "Solo puedes perder #b",
-      " PV más este turno.",
-      "No puedes recibir daño este turno."
+      "Muere en #b",
+      " turnos.",
+      "Muere este turno."
     ]
   },
-  "Compulsive": {
-    "NAME": "Reactivo",
+  "Shifting": {
+    "NAME": "Escurridizo",
     "DESCRIPTIONS": [
-      "Al recibir daño de ataque, cambia su intención."
+      "Cuando ",
+      " recibe daño, pierde esa cantidad de #yFuerza hasta el final del turno."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Laberinto Temporal",
+    "DESCRIPTIONS": [
+      "Cuando juegues #b",
+      " cartas, se acaba tu turno"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block Power",
+    "DESCRIPTIONS": [
+      "No puedes ganar #yBloqueo."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Explosión de Cadáver",
+    "DESCRIPTIONS": [
+      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual sus PV Máximos.",
+      "Cuando este enemigo muere, hace daño a TODOS los enemigos por un valor igual a #b",
+      " veces sus PV Máximos."
     ]
   },
   "Surrounded": {
@@ -1007,84 +1009,10 @@
       "Recibe #b50% más de daño si eres atacado por la espalda. Usa cartas dirigidas o pociones para cambiar tu orientación."
     ]
   },
-  "BackAttack": {
-    "NAME": "Ataque por la espalda",
+  "Compulsive": {
+    "NAME": "Reactivo",
     "DESCRIPTIONS": [
-      "Hace #b50% más de daño ya que te está atacando por detrás."
-    ]
-  },
-  "FreeAttackPower": {
-    "NAME": "Ataque gratuito",
-    "DESCRIPTIONS": [
-      "Ignora el coste de energía del próximo #yAtaque que juegues.",
-      "Ignora el coste de energía de los próximos #b",
-      " #yAtaques que juegues."
-    ]
-  },
-  "DuplicationPower": {
-    "NAME": "Duplicar",
-    "DESCRIPTIONS": [
-      "Tu próxima carta se juega dos veces este turno.",
-      "Tu próximas #b",
-      " cartas se juegan dos veces este turno."
-    ]
-  },
-  "NoSkills": {
-    "NAME": "Sin Habilidades",
-    "DESCRIPTIONS": [
-      "No puedes jugar #yHabilidades este turno."
-    ]
-  },
-  "Mastery": {
-    "NAME": "DEPRECATED Mastery",
-    "DESCRIPTIONS": [
-      "Whenever you attempt to switch Stances to your current Stance, gain #b",
-      " [B]."
-    ]
-  },
-  "MasterRealityPower": {
-    "NAME": "Dominar la Realidad",
-    "DESCRIPTIONS": [
-      "Cuando se crea una carta, esta es #yMejorada.",
-      "deprecated",
-      "deprecated",
-      "deprecated"
-    ]
-  },
-  "Retribution": {
-    "NAME": "DEPRECATED Retribution",
-    "DESCRIPTIONS": [
-      "Whenever you lose HP, gain #b",
-      " #yVigor."
-    ]
-  },
-  "EstablishmentPower": {
-    "NAME": "Establecimiento",
-    "DESCRIPTIONS": [
-      "Cuando #yRetengas una Carta, reduce su coste en #b",
-	  "."
-    ]
-  },
-  "Controlled": {
-    "NAME": "Fortaleza Mental",
-    "DESCRIPTIONS": [
-      "Cuando cambias de #yPosturas, gana #b",
-      " de #yBloqueo."
-    ]
-  },
-  "FlowPower": {
-    "NAME": "DEPRECATED FlowPower",
-    "DESCRIPTIONS": [
-      "When you play an Attack, gain #b",
-      " temporary #yStrength. When you play a Skill, gain #b,",
-      " temporary #yDexterity."
-    ]
-  },
-  "OmegaPower": {
-    "NAME": "Omega",
-    "DESCRIPTIONS": [
-      "Al final de tu turno, haz #b",
-      " de daño a TODOS los enemigos."
+      "Al recibir daño de ataque, cambia su intención."
     ]
   },
   "Nirvana": {
@@ -1094,47 +1022,30 @@
       " de #yBloqueo."
     ]
   },
-  "WireheadingPower": {
-    "NAME": "Previsión",
+  "BackAttack": {
+    "NAME": "Ataque por la espalda",
     "DESCRIPTIONS": [
-      "Al final de tu turno, #yAdivina #b",
-      "."
+      "Hace #b50% más de daño ya que te está atacando por detrás."
     ]
   },
-  "BattleHymn": {
-    "NAME": "Himno de Batalla",
+  "Vigor": {
+    "NAME": "Vigor",
     "DESCRIPTIONS": [
-      "Al comienzo de tu turno, añade #b",
-      " #yAplastar en a tu mano.",
-      " #yAplastar en a tu mano."
+      "Tu próximo Ataque hace #b",
+      " de daño adicional."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Condense",
+    "DESCRIPTIONS": [
+      "You cannot take more than #b",
+      " from any attack."
     ]
   },
   "Grounded": {
     "NAME": "DEPRECATED Grounded",
     "DESCRIPTIONS": [
       "Whenever you play a #ySkill, enter #yCalm."
-    ]
-  },
-  "Mantra": {
-    "NAME": "Mantra",
-    "DESCRIPTIONS": [
-      "Cuando obtienes #b",
-      " #yMantra, entra en #yDivinidad."
-    ]
-  },
-  "StrikeUp": {
-    "NAME": "Golpear Arriba",
-    "DESCRIPTIONS": [
-      "Las cartas que contienen #yGolpe hacen #b",
-      " de daño adicional."
-    ]
-  },
-  "FreeToPlayPower": {
-    "NAME": "DEPRECATED Joy",
-    "DESCRIPTIONS": [
-      "Ignore energy costs on the next card you play this turn.",
-      "Ignore energy costs on the next #b",
-      " cards you play this turn."
     ]
   },
   "Adaptation": {
@@ -1145,23 +1056,17 @@
       " cartas."
     ]
   },
-  "CannotChangeStancePower": {
-    "NAME": "No puedes cambiar de Postura",
+  "Mastery": {
+    "NAME": "DEPRECATED Mastery",
     "DESCRIPTIONS": [
-      "No puedes cambiar de postura este turno."
+      "Whenever you attempt to switch Stances to your current Stance, gain #b",
+      " [B]."
     ]
   },
-  "Vault": {
-    "NAME": "Sortear",
+  "Controlled": {
+    "NAME": "Fortaleza Mental",
     "DESCRIPTIONS": [
-      "Recibe #b",
-      " de daño al final de tu próximo turno."
-    ]
-  },
-  "BlockReturnPower": {
-    "NAME": "Devolver Bloqueo",
-    "DESCRIPTIONS": [
-      "Cuando te atacan, ganas #b",
+      "Cuando cambias de #yPosturas, gana #b",
       " de #yBloqueo."
     ]
   },
@@ -1172,23 +1077,12 @@
       " de daño cuando recibes daño de ataque."
     ]
   },
-  "AngelForm": {
-    "NAME": "Vivir para Siempre",
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED Joy",
     "DESCRIPTIONS": [
-      "Al final de tu turno, gana #b",
-      " de #yArmadura #yde #yPlacas."
-    ]
-  },
-  "EmotionalTurmoilPower": {
-    "NAME": "DEPRECATED Emotional Turmoil",
-    "DESCRIPTIONS": [
-      "At the start of your turn, enter a new random basic stance."
-    ]
-  },
-  "AlwaysMad": {
-    "NAME": "DEPRECATED Always Mad",
-    "DESCRIPTIONS": [
-      "No longer receive double damage while in #yWrath."
+      "Ignore energy costs on the next card you play this turn.",
+      "Ignore energy costs on the next #b",
+      " cards you play this turn."
     ]
   },
   "Collect": {
@@ -1199,11 +1093,10 @@
       " turnos, pon un #yMilagro+ en tu mano."
     ]
   },
-  "Condense": {
-    "NAME": "DEPRECATED Condense",
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Emotional Turmoil",
     "DESCRIPTIONS": [
-      "You cannot take more than #b",
-      " from any attack."
+      "At the start of your turn, enter a new random basic stance."
     ]
   },
   "Serenity": {
@@ -1218,11 +1111,53 @@
       "Al comienzo de tu próximo turno, muere."
     ]
   },
-  "Vigor": {
-    "NAME": "Vigor",
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Always Mad",
     "DESCRIPTIONS": [
-      "Tu próximo Ataque hace #b",
-      " de daño adicional."
+      "No longer receive double damage while in #yWrath."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "Cuando obtienes #b",
+      " #yMantra, entra en #yDivinidad."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Vivir para Siempre",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, gana #b",
+      " de #yArmadura #yde #yPlacas."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Previsión",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, #yAdivina #b",
+      "."
+    ]
+  },
+  "Vault": {
+    "NAME": "Sortear",
+    "DESCRIPTIONS": [
+      "Recibe #b",
+      " de daño al final de tu próximo turno."
+    ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED FlowPower",
+    "DESCRIPTIONS": [
+      "When you play an Attack, gain #b",
+      " temporary #yStrength. When you play a Skill, gain #b,",
+      " temporary #yDexterity."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Establecimiento",
+    "DESCRIPTIONS": [
+      "Cuando #yRetengas una Carta, reduce su coste en #b",
+      "."
     ]
   },
   "DevotionPower": {
@@ -1230,6 +1165,79 @@
     "DESCRIPTIONS": [
       "Al comienzo de tu turno, gana #b",
       " #yMantra."
+    ]
+  },
+  "BlockReturnPower": {
+    "NAME": "Devolver Bloqueo",
+    "DESCRIPTIONS": [
+      "Cuando te atacan, ganas #b",
+      " de #yBloqueo."
+    ]
+  },
+  "BattleHymn": {
+    "NAME": "Himno de Batalla",
+    "DESCRIPTIONS": [
+      "Al comienzo de tu turno, añade #b",
+      " #yAplastar en a tu mano.",
+      " #yAplastar en a tu mano."
+    ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Ataque gratuito",
+    "DESCRIPTIONS": [
+      "Ignora el coste de energía del próximo #yAtaque que juegues.",
+      "Ignora el coste de energía de los próximos #b",
+      " #yAtaques que juegues."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Sin Habilidades",
+    "DESCRIPTIONS": [
+      "No puedes jugar #yHabilidades este turno."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Dominar la Realidad",
+    "DESCRIPTIONS": [
+      "Cuando se crea una carta, esta es #yMejorada.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Golpear Arriba",
+    "DESCRIPTIONS": [
+      "Las cartas que contienen #yGolpe hacen #b",
+      " de daño adicional."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTIONS": [
+      "Whenever you lose HP, gain #b",
+      " #yVigor."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "No puedes cambiar de Postura",
+    "DESCRIPTIONS": [
+      "No puedes cambiar de postura este turno."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega",
+    "DESCRIPTIONS": [
+      "Al final de tu turno, haz #b",
+      " de daño a TODOS los enemigos."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplicar",
+    "DESCRIPTIONS": [
+      "Tu próxima carta se juega dos veces este turno.",
+      "Tu próximas #b",
+      " cartas se juegan dos veces este turno."
     ]
   },
   "WrathNextTurnPower": {
@@ -1304,14 +1312,6 @@
     "DESCRIPTIONS": [
       "Al final de tu turno, si estás en #yCalma, gana #b",
       " de #yBloqueo."
-    ]
-  },
-  "Study": {
-    "NAME": "Estudiar",
-    "DESCRIPTIONS": [
-      "Al final de tu turno, baraja #b",
-      " #yRevelación en tu pila de extracción.",
-      " #yRevelaciones en tu pila de extracción."
     ]
   }
 }

@@ -116,20 +116,20 @@
   "LOC_KOR": {
     "HEADER": "Traducción al Koreano",
     "NAMES": [
-		"Coordinador de Traducción:",
-		"Eteriny",
-		"Fissh",
-		"GyeRyak",
-		"Traducción:",
-		"Simcoding",
-		"DesFrog",
-		"insight",
-		"K4lium",
-		"hina",
-		"Vekan",
-		"Fuente:",
-		"In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
-		"Recursos de la tienda: NanumBrush, NanumPen by NAVER Corporation"
+      "Coordinador de Traducción:",
+      "Eteriny",
+      "Fissh",
+      "GyeRyak",
+      "Traducción:",
+      "Simcoding",
+      "DesFrog",
+      "insight",
+      "K4lium",
+      "hina",
+      "Vekan",
+      "Fuente:",
+      "In-Game: GyeonggiCheonnyeon(Batang) by Gyeonggi-Do",
+      "Recursos de la tienda: NanumBrush, NanumPen by NAVER Corporation"
     ]
   },
   "LOC_NOR": {
@@ -236,13 +236,13 @@
   "LOC_TUR": {
     "HEADER": "Traducción al Turco",
     "NAMES": [
-		"Traducción y Coordinación:",
-        "Ertürk Yılmaz",
-        "Traducción:",
-        "Erdem Gürbüz",
-        "Ege \"sLanKy\" Güçkıran",
-        "\"onparalelkenarag\"",
-        "Berkan Çalıkoğlu"
+      "Traducción y Coordinación:",
+      "Ertürk Yılmaz",
+      "Traducción:",
+      "Erdem Gürbüz",
+      "Ege \"sLanKy\" Güçkıran",
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
@@ -254,6 +254,19 @@
       "Vasyl \"RDSk\" Mykhaliuk",
       "Artem \"Crazytosik\" Zemlianyi",
       "Dariia \"Dariianity\" Porechna"
+    ]
+  },
+  "LOC_VIE": {
+    "HEADER": "Traducción al Vietnamita",
+    "NAMES": [
+      "MercTrans Localization Team",
+      "Traducción:",
+      "Dinh Long Hoang (donkrieg1011)",
+      "Dinh Hoang Nguyen (clesta)",
+      "Coordinación y Organización Lingüística:",
+      "Hoang Son Do",
+      "Agradecimientos Especiales:",
+      "Azy Tazer"
     ]
   },
   "LOC_ZHS": {
@@ -278,10 +291,42 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Porteado por",
+    "NAMES": [
+      "Sickhead Games"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Retratos de cartas & Arte de los eventos",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Publicado por",
+    "NAMES": [
+      "Humble Bundle",
+      "CBO:  Steven Kovensky",
+      "VP, Desarrollo Comercial:  Eduardo Aparicio",
+      "Gestor de Publicación:  John Polson",
+      "Gestor de Publicación de Salida: Evan Koepf",
+      "Gestor de Publicación de Marca:  Connor Bridgeman",
+      "Director de Desarrollo Comercial, Publicación:  Mai Kawaguchi",
+      "Desarrollador Comercial Senior:  Thomas Glenn",
+      "Desarrollador Comercial Senior:  Bob Mills",
+      "Desarrollador Comercial:  Trisha Tabor",
+      "Desarrollador Comercial:  Angel Lyons-Labate",
+      "Director de Tienda:  Paul Herron",
+      "Director de Finanzas:  Eric Samuel",
+      "VP del Producto:  Nate Muller",
+      "Director de Marketing:  Jeremie Vella",
+      "Gestor de Marketing:  Whitney Stutes",
+      "Gestor de Crecimiento de Marketing:  Francois du Toit",
+      "Soporte Ninja:  Jimmy Chi",
+      "Soporte Ninja:  Kasey Brounkowski",
+      "Soporte Ninja:  Kayla Fyfe",
+      "Soporte Ninja:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -356,57 +401,12 @@
       "Michael Schwalbe"
     ]
   },
-  "PORTING": {
-    "HEADER": "Porteado por",
-    "NAMES": [
-      "Sickhead Games"
-    ]
-  },
-  "PUBLISHING": {
-    "HEADER": "Publicado por",
-    "NAMES": [
-      "Humble Bundle",
-      "CBO:  Steven Kovensky",
-      "VP, Desarrollo Comercial:  Eduardo Aparicio",
-      "Gestor de Publicación:  John Polson",
-      "Gestor de Publicación de Salida: Evan Koepf",
-      "Gestor de Publicación de Marca:  Connor Bridgeman",
-      "Director de Desarrollo Comercial, Publicación:  Mai Kawaguchi",
-      "Desarrollador Comercial Senior:  Thomas Glenn",
-      "Desarrollador Comercial Senior:  Bob Mills",
-      "Desarrollador Comercial:  Trisha Tabor",
-      "Desarrollador Comercial:  Angel Lyons-Labate",
-      "Director de Tienda:  Paul Herron",
-      "Director de Finanzas:  Eric Samuel",
-      "VP del Producto:  Nate Muller",
-      "Director de Marketing:  Jeremie Vella",
-      "Gestor de Marketing:  Whitney Stutes",
-      "Gestor de Crecimiento de Marketing:  Francois du Toit",
-      "Soporte Ninja:  Jimmy Chi",
-      "Soporte Ninja:  Kasey Brounkowski",
-      "Soporte Ninja:  Kayla Fyfe",
-      "Soporte Ninja:  Patrick Monahan"
-    ]
-  },
   "KAKEHASHI": {
     "HEADER": "Kakehashi Games",
     "NAMES": [
       "Kakehashi Games (Traducción oficial):",
       "Soporte de Publicación en Japón:  Kakehashi Games",
       "Traduccion Japonesa:  Rie Ihara"
-    ]
-  },
-  "LOC_VIE": {
-    "HEADER": "Traducción al Vietnamita",
-    "NAMES": [
-      "MercTrans Localization Team",
-      "Traducción:",
-      "Dinh Long Hoang (donkrieg1011)",
-      "Dinh Hoang Nguyen (clesta)",
-      "Coordinación y Organización Lingüística:",
-      "Hoang Son Do",
-      "Agradecimientos Especiales:",
-      "Azy Tazer"
     ]
   }
 }

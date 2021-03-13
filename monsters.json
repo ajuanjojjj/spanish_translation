@@ -172,15 +172,6 @@
       "~Mis~ ~poderes~ NL ~fueron~ ~igualados...~"
     ]
   },
-  "Dagger": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Dagger",
-    "DIALOG": [
-      ""
-    ]
-  },
   "Darkling": {
     "MOVES": [
       "¡Ñam! ¡Ñam!"
@@ -226,11 +217,29 @@
       ""
     ]
   },
+  "Dagger": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Dagger",
+    "DIALOG": [
+      ""
+    ]
+  },
   "FlameBruiser": {
     "MOVES": [
       ""
     ],
     "NAME": "Matón en Llamas",
+    "DIALOG": [
+      ""
+    ]
+  },
+  "Reptomancer": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Vibora Vidente",
     "DIALOG": [
       ""
     ]
@@ -466,15 +475,6 @@
       ""
     ]
   },
-  "Reptomancer": {
-    "MOVES": [
-      ""
-    ],
-    "NAME": "Vibora Vidente",
-    "DIALOG": [
-      ""
-    ]
-  },
   "Repulsor": {
     "MOVES": [
       ""
@@ -677,11 +677,11 @@
       ""
     ]
   },
-  "WrithingMass": {
+  "SpireShield": {
     "MOVES": [
       ""
     ],
-    "NAME": "Masa Inquieta",
+    "NAME": "Escudo de la Aguja",
     "DIALOG": [
       ""
     ]
@@ -692,11 +692,11 @@
     ],
     "NAME": "Lanza de la Aguja"
   },
-  "SpireShield": {
+  "WrithingMass": {
     "MOVES": [
       ""
     ],
-    "NAME": "Escudo de la Aguja",
+    "NAME": "Masa Inquieta",
     "DIALOG": [
       ""
     ]

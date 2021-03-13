@@ -15,6 +15,14 @@
       "Un autómata de combate que tomó consciencia de sí mismo. NL La tecnología de Los Antiguos le permite manipular los Orbes."
     ]
   },
+  "Watcher": {
+    "NAMES": [
+      "La Vigilante"
+    ],
+    "TEXT": [
+      "Una asceta ciega que ha venido a \"Evaluar\" la Aguja. NL Maestra de las Posturas divinas."
+    ]
+  },
   "Ironclad": {
     "NAMES": [
       "El Blindado"
@@ -179,14 +187,6 @@
       "¿Ahora... que..? NL ..¿Ya... está....?",
       "...la Torre duerme..... NL Y...... yo...",
       "..también.......debería......."
-    ]
-  },
-  "Watcher": {
-    "NAMES": [
-      "La Vigilante"
-    ],
-    "TEXT": [
-      "Una asceta ciega que ha venido a \"Evaluar\" la Aguja. NL Maestra de las Posturas divinas."
     ]
   }
 }

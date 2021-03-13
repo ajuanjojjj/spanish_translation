@@ -316,6 +316,11 @@
       "No"
     ]
   },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "¡Este tiene que ser mi único #rAtaque!"
+    ]
+  },
   "CopyAction": {
     "TEXT": [
       "Copiar"
@@ -326,20 +331,6 @@
       "haz clic para salir",
       "para salir",
       "Toca de nuevo para salir"
-    ]
-  },
-  "CustomModeScreen": {
-    "TEXT": [
-      "Partida personalizada",
-      "Los Logros y las Tablas de Puntuación están desactivadas.",
-      "Personaje",
-      "Ascensión",
-      "Nivel ",
-      "Modo ascensión",
-      "Modificadores",
-      "Semilla",
-      "Usar semilla",
-      "Trofeos y las Tablas de Puntuación están desactivadas."
     ]
   },
   "DailyScreen": {
@@ -567,16 +558,6 @@
       "Exordium"
     ]
   },
-  "ForethoughtAction": {
-    "TEXT": [
-      "pon debajo de tu pila de extracción."
-    ]
-  },
-  "GainGoldTextEffect": {
-    "TEXT": [
-      " Oro"
-    ]
-  },
   "GamblingChipAction": {
     "TEXT": [
       "Reemplazar (Ficha de Apostar)",
@@ -586,6 +567,11 @@
   "GameSavedEffect": {
     "TEXT": [
       "#y~Partida~ #y~Guardada~"
+    ]
+  },
+  "GainGoldTextEffect": {
+    "TEXT": [
+      " Oro"
     ]
   },
   "GridCardSelectScreen": {
@@ -866,6 +852,17 @@
       "¡Oh no!"
     ]
   },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Pulsa ",
+      " para Empezar",
+      "Cambiar perfil",
+      "Area de pantalla",
+      "Ha habido un cambio en la sesión. Por favor, vuelve a ingresar o sal a la pantalla de título.",
+      "Iniciar Sesión",
+      "Salir"
+    ]
+  },
   "OpeningAction": {
     "TEXT": [
       "¡Ese enemigo no intenta atacar!"
@@ -933,9 +930,26 @@
       "pon encima de tu pila de robado"
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Recordar",
+      "Obten la Llave Rubí."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "Agota"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Volver",
+      "Común:",
+      "Las pociones más comunes encontradas en la Aguja.",
+      "Poco común:",
+      "Pociones más poderosas que aparecen menos a menudo que las pociones comunes.",
+      "Rara:",
+      "Pociones únicas y poderosas que raramente se ven."
     ]
   },
   "RelicViewScreen": {
@@ -1132,19 +1146,6 @@
       "La Vigilante"
     ]
   },
-  "SaveSlot": {
-    "TEXT": [
-      "Tiempo de juego ",
-      "Ranura vacía"
-    ]
-  },
-  "SaveSlotScreen": {
-    "TEXT": [
-      "Elije una ranura de guardado",
-      "Renombrar",
-      "Borrar este guardado"
-    ]
-  },
   "SeedPanel": {
     "TEXT": [
       "0000000000",
@@ -1168,6 +1169,11 @@
   "SetupAction": {
     "TEXT": [
       "pon encima de tu pila de robado."
+    ]
+  },
+  "ForethoughtAction": {
+    "TEXT": [
+      "pon debajo de tu pila de extracción."
     ]
   },
   "ShopRoom": {
@@ -1237,6 +1243,11 @@
       "La Ciudad"
     ]
   },
+  "TheEnding": {
+    "TEXT": [
+      "El final"
+    ]
+  },
   "TipHelper": {
     "TEXT": [
       "Energia"
@@ -1299,15 +1310,31 @@
       "¡Nuevo desbloqueo!"
     ]
   },
-  "Period": {
+  "CustomModeScreen": {
     "TEXT": [
-      "."
+      "Partida personalizada",
+      "Los Logros y las Tablas de Puntuación están desactivadas.",
+      "Personaje",
+      "Ascensión",
+      "Nivel ",
+      "Modo ascensión",
+      "Modificadores",
+      "Semilla",
+      "Usar semilla",
+      "Trofeos y las Tablas de Puntuación están desactivadas."
     ]
   },
-  "Recall Option": {
+  "SaveSlot": {
     "TEXT": [
-      "Recordar",
-      "Obten la Llave Rubí."
+      "Tiempo de juego ",
+      "Ranura vacía"
+    ]
+  },
+  "SaveSlotScreen": {
+    "TEXT": [
+      "Elije una ranura de guardado",
+      "Renombrar",
+      "Borrar este guardado"
     ]
   },
   "VictoryScreen": {
@@ -1327,9 +1354,9 @@
       "Victoria!"
     ]
   },
-  "TheEnding": {
+  "Period": {
     "TEXT": [
-      "El final"
+      "."
     ]
   },
   "BetaArtUnlockEffect": {
@@ -1348,33 +1375,6 @@
       " P%s",
       "Menu Principal",
       " A%s"
-    ]
-  },
-  "MiscConsoleStrings": {
-    "TEXT": [
-      "Pulsa ",
-      " para Empezar",
-      "Cambiar perfil",
-      "Area de pantalla",
-      "Ha habido un cambio en la sesión. Por favor, vuelve a ingresar o sal a la pantalla de título.",
-      "Iniciar Sesión",
-      "Salir"
-    ]
-  },
-  "SignatureMoveMessage": {
-    "TEXT": [
-      "¡Este tiene que ser mi único #rAtaque!"
-    ]
-  },
-  "PotionViewScreen": {
-    "TEXT": [
-      "Volver",
-      "Común:",
-      "Las pociones más comunes encontradas en la Aguja.",
-      "Poco común:",
-      "Pociones más poderosas que aparecen menos a menudo que las pociones comunes.",
-      "Rara:",
-      "Pociones únicas y poderosas que raramente se ven."
     ]
   },
   "ClarityAction": {

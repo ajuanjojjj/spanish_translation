@@ -7,10 +7,6 @@
     "NAME": "Binario",
     "DESCRIPTION": "Las recompensas de cartas solo contienen 2 cartas."
   },
-  "Blight Chests": {
-    "NAME": "Cofres de Plaga",
-    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en el modo Sin Fin."
-  },
   "Brewmaster": {
     "NAME": "Maestro Alquimista",
     "DESCRIPTION": "Empieza con 5 copias de la carta 'Alquimia' y la reliquia 'Estatua de la Bestia Blanca'."
@@ -23,6 +19,26 @@
     "NAME": "Diversidad",
     "DESCRIPTION": "Las cartas no están restringidas por el color de tu personaje."
   },
+  "Red Cards": {
+    "NAME": "Cartas Rojas",
+    "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
+  },
+  "Green Cards": {
+    "NAME": "Cartas Verdes",
+    "DESCRIPTION": "Las cartas verdes aparecen en tiendas y recompensas."
+  },
+  "Blue Cards": {
+    "NAME": "Cartas Azules",
+    "DESCRIPTION": "Las cartas azules aparecen en tiendas y recompensas."
+  },
+  "Purple Cards": {
+    "NAME": "Cartas Moradas",
+    "DESCRIPTION": "Las cartas moradas aparecen en tiendas y recompensas."
+  },
+  "Colorless Cards": {
+    "NAME": "Cartas Incoloras",
+    "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
+  },
   "Draft": {
     "NAME": "Selección",
     "DESCRIPTION": "Monta un mazo inicial personalizado."
@@ -34,6 +50,14 @@
   "Endless": {
     "NAME": "Sin Fin",
     "DESCRIPTION": "Ganar te devolverá al Acto 1 con el mismo mazo. Pero cuidado, la plaga lo consume todo..."
+  },
+  "Blight Chests": {
+    "NAME": "Cofres de Plaga",
+    "DESCRIPTION": "Los cofres de los jefes contienen plagas tras vencer el Acto 3 en el modo Sin Fin."
+  },
+  "Stunted Growth": {
+    "NAME": "Crecimiento atrofiado",
+    "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
   },
   "Heirloom": {
     "NAME": "Reliquia Familiar",
@@ -103,26 +127,6 @@
     "NAME": "Clásico",
     "DESCRIPTION": "Los enemigos normales dejan reliquias en vez de cartas."
   },
-  "Red Cards": {
-    "NAME": "Cartas Rojas",
-    "DESCRIPTION": "Las cartas rojas aparecen en tiendas y recompensas."
-  },
-  "Green Cards": {
-    "NAME": "Cartas Verdes",
-    "DESCRIPTION": "Las cartas verdes aparecen en tiendas y recompensas."
-  },
-  "Blue Cards": {
-    "NAME": "Cartas Azules",
-    "DESCRIPTION": "Las cartas azules aparecen en tiendas y recompensas."
-  },
-  "Colorless Cards": {
-    "NAME": "Cartas Incoloras",
-    "DESCRIPTION": "Las cartas incoloras aparecen en recompensas."
-  },
-  "Stunted Growth": {
-    "NAME": "Crecimiento atrofiado",
-    "DESCRIPTION": "Los enemigos ya no sueltan cartas como recompensa después de superar el Acto 3 en Endless."
-  },
   "SealedDeck": {
     "NAME": "Baraja Sellada",
     "DESCRIPTION": "Elabora una baraja a partir de 30 cartas aleatorias."
@@ -166,9 +170,5 @@
   "The Ending": {
     "NAME": "El Final",
     "DESCRIPTION": "Habilita el Acto Final."
-  },
-  "Purple Cards": {
-    "NAME": "Cartas Moradas",
-    "DESCRIPTION": "Las cartas moradas aparecen en tiendas y recompensas."
   }
 }

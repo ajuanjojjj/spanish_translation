@@ -181,24 +181,6 @@
       "Selecciona una Carta para Duplicar."
     ]
   },
-  "FaceTrader": {
-    "NAME": "Comerciante de Caras",
-    "DESCRIPTIONS": [
-      "Pasas por una misteriosa estatua que sostiene varias máscaras... NL Algo detrás de ti te susurra suavemente, NL ~\"Para.\"~",
-      "!Te giras para mirar la estatua que ahora te está mirando! NL En una inspección más cuidadosa, no es una estatua sino un hombre escultural y demacrado. ¿Está incluso respirando? NL NL ~\"Cara.~ ~¿Me~ ~dejas~ ~tocarla?~ ~¿Incluso~ ~cambiarla?\"~",
-      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a sentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aún más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
-      "~\"¿Para~ ~mí?~ @¿PARA@ @MÍ?@ ~Oh~ ~sí..~ ~Sí.~ ~Sí..~ ~mmm...\"~ NL NL ¡Ves uno de sus brazos vacilar, y tu cara está en su mano! Tu cara ha sido intercambiada. NL NL ~\"Bonita~ ~cara.~ ~Bonita~ ~cara.\"~",
-      "~\"Para.~ ~Para.~ ~Para.~ ~Para.~ ~Para.\"~ NL NL Esta fue probablemente la decisión correcta."
-    ],
-    "OPTIONS": [
-      "[Tocar] #rPierde #r",
-      " #gOro.",
-      "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
-      "[Salir]",
-      "[Continua]",
-      " #rPV, #ggana #g"
-    ]
-  },
   "Falling": {
     "NAME": "Caída",
     "DESCRIPTIONS": [
@@ -421,21 +403,6 @@
       "Intentos Restantes: #y"
     ]
   },
-  "MindBloom": {
-    "NAME": "Mente Floreciente",
-    "DESCRIPTIONS": [
-      "Empiezas a soñar despierto mientras vas asciendo la Torre. Después de algún tiempo, empiezas a notar como tus pensamientos salen de tu cabeza y se manifiestan a tu alrededor.",
-      "Puede ser así de fácil?",
-      "Todo tiene sentido ahora. NL La falta de memorias, la ascensión, el #yAntiguo. NL NL Así se ha hecho siempre. NL Y así se hará siempre. NL Todo será olvidado pronto..."
-    ],
-    "OPTIONS": [
-      "[Soy la Guerra] #rLucha #rcontra #run #rJefe #rdel #rActo #r1. #gObtén #guna #gReliquia #gRara.",
-      "[Soy Rico] #gGana #g999 #gde #gOro. #rMaldecirte #r- #r2 #rNormalidad.",
-      "[Estoy Saludable] #gCura #gtoda #gtu #gVida. #rMaldecirte #r- #rDuda.",
-      "[Estoy Despierto] #gMejora #gtodas #gtus #gCartas. #rYa #rno #rpuedes #rcurarte.",
-      "[Salir]"
-    ]
-  },
   "Mushrooms": {
     "NAME": "Hongos",
     "DESCRIPTIONS": [
@@ -475,25 +442,6 @@
       "[Ofrenda: ",
       "] #rPierde #resta #rreliquia. #gObtén #guna #greliquia #gespecial.",
       "[Salir]"
-    ]
-  },
-  "Nest": {
-    "NAME": "El Nido",
-    "DESCRIPTIONS": [
-      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrando NL en lo que parece una #pcatedral.",
-      "Naturalmente, te unes a la fila y rápidamente estás rodeado de #rCultistas! NL Ellos te ignoran ya que están alegremente @cantando@ y ~ondulando~ sus armas. NL NL #r@\"¡¡ASESINO!!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"¡ASESINATO!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Ves una #yCaja de #yDonativos...",
-      "Decides permanecer en la fila (del miedo) y ver que pasará. NL NL Finalmente, estás cara a cara con el líder. Un cultista bien vestido te ofrece una #yDaga #yVistosa. Como los otros antes que tú, te cortas tu antebrazo y dejas que la sangre fluya en un tazón deforme. NL NL ¡Los cultistas @cantan@ y @gritan@ para ti! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Tú cantas también. ¿Por qué no?",
-      "Ellos ni se dan cuenta.",
-      "",
-      ""
-    ],
-    "OPTIONS": [
-      "[Permanecer en la Fila] #gObtén Daga del Ritual. #rPierde #r",
-      " #rPV.",
-      "[Aplastar y Agarrar] #gObtén #g",
-      " #gOro.",
-      "[Salir]",
-      "[Continuar]"
     ]
   },
   "Proceed Screen": {
@@ -844,6 +792,58 @@
       "[Dejarlo] #rPierde #r",
       " #rOro.",
       "[Salir]"
+    ]
+  },
+  "MindBloom": {
+    "NAME": "Mente Floreciente",
+    "DESCRIPTIONS": [
+      "Empiezas a soñar despierto mientras vas asciendo la Torre. Después de algún tiempo, empiezas a notar como tus pensamientos salen de tu cabeza y se manifiestan a tu alrededor.",
+      "Puede ser así de fácil?",
+      "Todo tiene sentido ahora. NL La falta de memorias, la ascensión, el #yAntiguo. NL NL Así se ha hecho siempre. NL Y así se hará siempre. NL Todo será olvidado pronto..."
+    ],
+    "OPTIONS": [
+      "[Soy la Guerra] #rLucha #rcontra #run #rJefe #rdel #rActo #r1. #gObtén #guna #gReliquia #gRara.",
+      "[Soy Rico] #gGana #g999 #gde #gOro. #rMaldecirte #r- #r2 #rNormalidad.",
+      "[Estoy Saludable] #gCura #gtoda #gtu #gVida. #rMaldecirte #r- #rDuda.",
+      "[Estoy Despierto] #gMejora #gtodas #gtus #gCartas. #rYa #rno #rpuedes #rcurarte.",
+      "[Salir]"
+    ]
+  },
+  "Nest": {
+    "NAME": "El Nido",
+    "DESCRIPTIONS": [
+      "Una larga fila de #b~figuras~ #b~encapuchadas~ se pueden ver entrando NL en lo que parece una #pcatedral.",
+      "Naturalmente, te unes a la fila y rápidamente estás rodeado de #rCultistas! NL Ellos te ignoran ya que están alegremente @cantando@ y ~ondulando~ sus armas. NL NL #r@\"¡¡ASESINO!!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"¡ASESINATO!@ #r@ASESINATO@ #r@¡¡ASESINATO!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Ves una #yCaja de #yDonativos...",
+      "Decides permanecer en la fila (del miedo) y ver que pasará. NL NL Finalmente, estás cara a cara con el líder. Un cultista bien vestido te ofrece una #yDaga #yVistosa. Como los otros antes que tú, te cortas tu antebrazo y dejas que la sangre fluya en un tazón deforme. NL NL ¡Los cultistas @cantan@ y @gritan@ para ti! NL NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL Tú cantas también. ¿Por qué no?",
+      "Ellos ni se dan cuenta.",
+      "",
+      ""
+    ],
+    "OPTIONS": [
+      "[Permanecer en la Fila] #gObtén Daga del Ritual. #rPierde #r",
+      " #rPV.",
+      "[Aplastar y Agarrar] #gObtén #g",
+      " #gOro.",
+      "[Salir]",
+      "[Continuar]"
+    ]
+  },
+  "FaceTrader": {
+    "NAME": "Comerciante de Caras",
+    "DESCRIPTIONS": [
+      "Pasas por una misteriosa estatua que sostiene varias máscaras... NL Algo detrás de ti te susurra suavemente, NL ~\"Para.\"~",
+      "!Te giras para mirar la estatua que ahora te está mirando! NL En una inspección más cuidadosa, no es una estatua sino un hombre escultural y demacrado. ¿Está incluso respirando? NL NL ~\"Cara.~ ~¿Me~ ~dejas~ ~tocarla?~ ~¿Incluso~ ~cambiarla?\"~",
+      "~\"¿Compensación?~ ~Compensación.\"~ NL Mecánicamente, saca una pila de una gran cantidad de #yoro y la coloca en tu bolsa. NL NL ~\"Que~ ~bonita~ ~cara.~ ~Buena~ ~cara.\"~ NL ¡Mientras él toca tu cara, empiezas a sentir como tu vida se desvanece! NL Mientras, su máscara se cae y se rompe. ¡Gritando, rápidamente se cubre su cara con sus seis brazos, soltando aún más máscaras! En medio de los gritos y destrozos, te escapas. NL NL Su cara estaba completamente vacía.",
+      "~\"¿Para~ ~mí?~ @¿PARA@ @MÍ?@ ~Oh~ ~sí..~ ~Sí.~ ~Sí..~ ~mmm...\"~ NL NL ¡Ves uno de sus brazos vacilar, y tu cara está en su mano! Tu cara ha sido intercambiada. NL NL ~\"Bonita~ ~cara.~ ~Bonita~ ~cara.\"~",
+      "~\"Para.~ ~Para.~ ~Para.~ ~Para.~ ~Para.\"~ NL NL Esta fue probablemente la decisión correcta."
+    ],
+    "OPTIONS": [
+      "[Tocar] #rPierde #r",
+      " #gOro.",
+      "[Cambia] #g50%: #gCara #gBuena. #r50%: #rCara #rFMala.",
+      "[Salir]",
+      "[Continua]",
+      " #rPV, #ggana #g"
     ]
   },
   "NoteForYourself": {

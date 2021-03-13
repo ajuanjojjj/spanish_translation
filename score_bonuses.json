@@ -69,6 +69,12 @@
     "NAME": "Élites de Exordium Derrotados",
     "DESCRIPTIONS": []
   },
+  "Heartbreaker": {
+    "NAME": "Rompecorazones",
+    "DESCRIPTIONS": [
+      "Derrota al Corazón."
+    ]
+  },
   "Highlander": {
     "NAME": "Highlander",
     "DESCRIPTIONS": [
@@ -169,12 +175,6 @@
     "NAME": "Bien Alimentado",
     "DESCRIPTIONS": [
       "Subiste tus PV Máximos 15+."
-    ]
-  },
-  "Heartbreaker": {
-    "NAME": "Rompecorazones",
-    "DESCRIPTIONS": [
-      "Derrota al Corazón."
     ]
   }
 }
