@@ -829,8 +829,8 @@
   "Split": {
     "NAME": "Dividir",
     "DESCRIPTIONS": [
-      "Cuando su PV es igual o inferior a #b50%, se dividirá en #b2 babosas más pequeñas con",
-      "'sus PV actuales."
+      "Al llegar a #b50% de PV, se dividirá en #b2 babosas más pequeñas con los PV actuales del ",
+      " ."
     ]
   },
   "Spore Cloud": {
