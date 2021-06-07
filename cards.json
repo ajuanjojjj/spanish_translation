@@ -1817,7 +1817,7 @@
   },
   "Vengeance": {
     "NAME": "Hervir de Rabia",
-    "DESCRIPTION": "Al comienzo de tu próximo turno, entra en Cólera y roba 2 cartas."
+    "DESCRIPTION": "Al comienzo de tu próximo turno, entra en Cólera y roba !M! cartas."
   },
   "PathToVictory": {
     "NAME": "Puntos de Presión",
