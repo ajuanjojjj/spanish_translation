@@ -556,7 +556,7 @@
     "NAME": "Códice de Nilry",
     "FLAVOR": "Manufacturado por el infame maestro de juegos mismo. Se dice que expande la mente de uno.",
     "DESCRIPTIONS": [
-      "Al comienzo de cada turno puedes escoger #b1 de #b3 cartas al azar para barajar dentro de tu pila de extracción."
+      "Al final de cada turno puedes escoger #b1 de #b3 cartas al azar para barajar dentro de tu pila de extracción."
     ]
   },
   "Ninja Scroll": {
